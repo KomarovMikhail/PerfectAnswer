@@ -1,0 +1,5 @@
+INPUT_XLSX = 'IT_Analytics_test_1.xlsx'
+OUTPUT_XLSX = 'result.xlsx'
+SYMBOLS = '.,!?/\\@\'"+:;()[]{}*_<>\n\t«»–-'
+STOPS_PATH = 'stops'
+PERFECT_ANSWER_PATH = 'perfect_answer'
